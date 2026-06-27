@@ -19,6 +19,6 @@ I'm currently an active developer focused on improving my skills and building cl
 ![](https://github-contributor-stats.vercel.app/api?username=ItzJustEren&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ItzJustEren&icon=6&color=3)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ItzJustEren&color=white)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
